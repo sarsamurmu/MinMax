@@ -1,8 +1,20 @@
-{ 
-      "Wallpapers": 
-[ 	 
-{ 		"author": "Sarsa Murmu",
- 		"url": "https://raw.githubusercontent.com/sarsa2703/Wallpapers/wallpaper_orig.jpg",
- 		"thumbUrl": "https://raw.githubusercontent.com/sarsa2703/Wallpapers/wallpaper_orig.jpg",
- 		"name": "Resurrection Remix Oreo" 	 },
-		 ] }
+[
+	{
+		"name": "Resurrection Remix Oreo",
+		"author": "Sarsa Murmu",
+		"url": "https://raw.githubusercontent.com/sarsa2703/Wallpapers/wallpaper_orig.png",
+		"thumbnail": "",
+		"downloadable": true,
+		"size":,
+		"dimensions": "",
+		"copyright": ""
+	},
+	
+]
+
+	
+
+
+
+	
+	
