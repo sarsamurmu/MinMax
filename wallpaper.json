@@ -8,10 +8,10 @@
   },
  {
     "name": "Resurrection Remix Nougat",
-    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/rrnougat.jpg",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/rrnougat.png",
     "downloadable": true,
-    "size": 114017,
-    "dimensions": "640 x 1138 px"
+    "size": 3874874,
+    "dimensions": "1440 x 1280 px"
   },
 {
     "name": "Lines - Blue",
@@ -40,5 +40,12 @@
     "downloadable": true,
     "size": 184602,
     "dimensions": "1080 x 2160 px"
+  },
+{
+    "name": "Material 2",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/material2.png",
+    "downloadable": true,
+    "size": 138601,
+    "dimensions": "1736 x 1543 px"
   }
 ]
