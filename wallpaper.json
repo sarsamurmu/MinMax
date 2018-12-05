@@ -1,51 +1,72 @@
 [
   {
+    "name": "Hexs",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/hexs.png",
+    "downloadable": true,
+    "size": 1090974,
+    "dimensions": "4320 x 8800 px"
+  },
+  {
     "name": "Resurrection Remix Oreo",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/rroreo.jpg",
     "downloadable": true,
     "size": 3758456,
     "dimensions": "2160 x 2160 px"
   },
- {
+  {
     "name": "Resurrection Remix Nougat",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/rrnougat.png",
     "downloadable": true,
     "size": 3874874,
     "dimensions": "1440 x 1280 px"
   },
-{
+  {
     "name": "Lines - Blue",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpblue.jpg",
     "downloadable": true,
     "size": 184602,
     "dimensions": "1080 x 2160 px"
   },
-{
+  {
     "name": "Lines - Blue Google",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpblueg.jpg",
     "downloadable": true,
     "size": 184602,
     "dimensions": "1080 x 2160 px"
   },
-{
+  {
     "name": "Lines - Dark",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpdark.jpg",
     "downloadable": true,
     "size": 184602,
     "dimensions": "1080 x 2160 px"
   },
-{
+  {
     "name": "Lines - Dark Google",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpdarkg.jpg",
     "downloadable": true,
     "size": 184602,
     "dimensions": "1080 x 2160 px"
   },
-{
-    "name": "Material 2 Medium Dimension",
-    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/material2.png",
+  {
+    "name": "Material 2 Low Dimension",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/materialld.png",
     "downloadable": true,
-    "size": 138601,
-    "dimensions": "1736 x 1543 px"
+    "size": 41344,
+    "dimensions": "1500 x 1333 px"
+  },
+  {
+    "name": "Material 2 Medium Dimension",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/material.png",
+    "downloadable": true,
+    "size": 76777,
+    "dimensions": "2400 x 2133 px"
+  },
+  {
+    "name": "Material 2 High Dimension",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/materialhd.png",
+    "downloadable": true,
+    "size": 103876,
+    "dimensions": "2893 x 2572 px"
   }
 ]
