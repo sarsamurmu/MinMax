@@ -23,6 +23,7 @@
   },
   {
     "name": "Lines - Blue",
+    "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpblue.jpg",
     "downloadable": true,
     "size": 184602,
@@ -30,6 +31,7 @@
   },
   {
     "name": "Lines - Blue Google",
+    "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpblueg.jpg",
     "downloadable": true,
     "size": 184602,
@@ -37,6 +39,7 @@
   },
   {
     "name": "Lines - Dark",
+    "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpdark.jpg",
     "downloadable": true,
     "size": 184602,
@@ -44,6 +47,7 @@
   },
   {
     "name": "Lines - Dark Google",
+    "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/androidpdarkg.jpg",
     "downloadable": true,
     "size": 184602,
@@ -69,5 +73,13 @@
     "downloadable": true,
     "size": 103876,
     "dimensions": "2893 x 2572 px"
+  },
+  {
+    "name": "Google Material Scope",
+    "author": "Sarsa Murmu",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/gm.png",
+    "downloadable": true,
+    "size": 39699,
+    "dimensions": "2160 x 2160 px"
   }
 ]
