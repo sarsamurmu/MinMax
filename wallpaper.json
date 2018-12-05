@@ -1,7 +1,7 @@
 [
   {
     "name": "Hexs",
-    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/hexs.png",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/Hexs.png",
     "downloadable": true,
     "size": 1090974,
     "dimensions": "4320 x 8800 px"
@@ -50,21 +50,21 @@
   },
   {
     "name": "Material 2 Low Dimension",
-    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/materialld.png",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/Materialld.png",
     "downloadable": true,
     "size": 41344,
     "dimensions": "1500 x 1333 px"
   },
   {
     "name": "Material 2 Medium Dimension",
-    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/material.png",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/Material.png",
     "downloadable": true,
     "size": 76777,
     "dimensions": "2400 x 2133 px"
   },
   {
     "name": "Material 2 High Dimension",
-    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/materialhd.png",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/Materialhd.png",
     "downloadable": true,
     "size": 103876,
     "dimensions": "2893 x 2572 px"
