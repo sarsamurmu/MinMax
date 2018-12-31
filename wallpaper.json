@@ -306,6 +306,15 @@
     "dimensions": "5184 x 3456 px"
   },
   {
+    "name": "Material 2",
+    "author": "Sarsa Murmu",
+    "collections": "Material",
+    "url": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/material2.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsa2703/minmax/Wallpapers/t/material2.png",
+    "downloadable": true,
+    "dimensions": "2800 x 2000 px"
+  },
+  {
     "name": "Hexs",
     "author": "Cory W.",
     "collections": "Material",
