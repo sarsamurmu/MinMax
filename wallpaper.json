@@ -1,5 +1,37 @@
 [
-    {
+   {
+    "name": "Sea Beach",
+    "author": "Gplus",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/seabeach.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/seabeach.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Gradient Leaf",
+    "author": "Gplus",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/gradientleaf.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/gradientleaf.png",
+    "downloadable": true
+  },
+  {
+    "name": "Dark Landscape",
+    "author": "Gplus",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/darklandscape.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/darklandscape.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Mid Boat",
+    "author": "Ahmad Ansari",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/midboat.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/midboat.jpg",
+    "downloadable": true
+  },
+  {
     "name": "Flower",
     "author": "Alex Blajan",
     "collections": "Nature",
