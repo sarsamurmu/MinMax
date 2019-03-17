@@ -1,5 +1,41 @@
 [
    {
+    "name": "Sunset",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/bluewater.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/bluewater.png",
+    "downloadable": true
+  },
+   {
+    "name": "Night City",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png",
+    "downloadable": true
+  },
+   {
+    "name": "Colorize Gradient",
+    "author": "Dailywalls",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/colorizegradient.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/colorizegradient.png",
+    "downloadable": true
+  },
+   {
+    "name": "Blue Water",
+    "collections": "Vector,Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/bluewater.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/bluewater.png",
+    "downloadable": true
+  },
+   {
+    "name": "Aerial",
+    "collections": "Nature,Earth",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/aerial.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/aerial.png",
+    "downloadable": true
+  },
+   {
     "name": "Sea Beach",
     "author": "Gplus",
     "collections": "Nature",
