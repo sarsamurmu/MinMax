@@ -1,19 +1,125 @@
 [
-   {
+  {
+    "name": "Android O",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/android-o.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/android-o.png",
+    "downloadable": true
+  },
+  {
+    "name": "Art River",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/art-river.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/art-river.png",
+    "downloadable": true
+  },
+  {
+    "name": "City Sight",
+    "author": "Marvin Ronsdorf"
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/city-sight-marvin-ronsdorf.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/city-sight-marvin-ronsdorf.png",
+    "downloadable": true
+  },
+  {
+    "name": "Flower Bouquet",
+    "author": "Annie Spratt"
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/flower-bouquet-annie-spratt.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/flower-bouquet-annie-spratt.png",
+    "downloadable": true
+  },
+  {
+    "name": "Go Green",
+    "author": "Unni Rajesh"
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/go-green-unni-rajesh.webp",
+    "downloadable": true
+  },
+  {
+    "name": "Greenie Beach",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/greenie_beach.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/greenie_beach.png",
+    "downloadable": true
+  },
+  {
+    "name": "Imminent Implosion",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/imminent-implosion-unsplash.webp",
+    "downloadable": true
+  },
+  {
+    "name": "Mean Green",
+    "author": "Milan C Johnson",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/mean-green-milan-c-johnson.webp",
+    "downloadable": true
+  },
+  {
+    "name": "Minimal Forest",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/minimal-forest.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/minimal-forest.png",
+    "downloadable": true
+  },
+  {
+    "name": "Minimal Lines",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/minimal-lines.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/minimal-lines.png",
+    "downloadable": true
+  },
+  {
+    "name": "Mountains",
+    "author": "Greg Rakozy",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/mountains-greg-rakozy.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/mountains-greg-rakozy.png",
+    "downloadable": true
+  },
+  {
+    "name": "Sunset in Landscape",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset-in-landscape.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset-in-landscape.png",
+    "downloadable": true
+  },
+  {
+    "name": "Sunshine's Seaside",
+    "collections": "Earth",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunshine's_seaside.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunshine's_seaside.png",
+    "downloadable": true
+  },
+  {
+    "name": "Top View",
+    "collections": "Earth",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/top-view-unsplash.webp",
+    "downloadable": true
+  },
+  {
+    "name": "Way to Space",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/way-to-space.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/way-to-space.png",
+    "downloadable": true
+  },
+  {
     "name": "Sunset",
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sunset.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sunset.png",
     "downloadable": true
   },
-   {
+  {
     "name": "Night City",
     "collections": "Random",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nightcity.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nightcity.png",
     "downloadable": true
   },
-   {
+  {
     "name": "Colorize Gradient",
     "author": "Dailywalls",
     "collections": "Random",
@@ -21,21 +127,21 @@
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/colorizegradient.png",
     "downloadable": true
   },
-   {
+  {
     "name": "Blue Water",
     "collections": "Vector,Random",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/bluewater.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/bluewater.png",
     "downloadable": true
   },
-   {
+  {
     "name": "Aerial",
     "collections": "Nature,Earth",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/aerial.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/aerial.png",
     "downloadable": true
   },
-   {
+  {
     "name": "Sea Beach",
     "author": "Gplus",
     "collections": "Nature",
@@ -65,8 +171,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/alex-blajan-flower.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/alex-blajan-flower.png",
-    "downloadable": true,
-    "dimensions": "7360 x 4912 px"
+    "downloadable": true
   },
   {
     "name": "Leaf",
@@ -74,8 +179,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/andras-vas-leaf.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/andras-vas-leaf.png",
-    "downloadable": true,
-    "dimensions": "3648 x 5472 px"
+    "downloadable": true
   },
   {
     "name": "Flower 2",
@@ -83,8 +187,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/annie-spratt-flower2.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/annie-spratt-flower2.png",
-    "downloadable": true,
-    "dimensions": "3648 x 5472 px"
+    "downloadable": true
   },
   {
     "name": "Forest",
@@ -92,8 +195,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/deglee-degi-forest.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/deglee-degi-forest.png",
-    "downloadable": true,
-    "dimensions": "3456 x 5184 px"
+    "downloadable": true
   },
   {
     "name": "Forest 2",
@@ -101,8 +203,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/eberhard-grossgasteiger-forest2.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/eberhard-grossgasteiger-forest2.png",
-    "downloadable": true,
-    "dimensions": "3670 x 5496 px"
+    "downloadable": true
   },
   {
     "name": "Forest 3",
@@ -110,8 +211,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/evgeni-evgeniev-forest.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/evgeni-evgeniev-forest.png",
-    "downloadable": true,
-    "dimensions": "2412 x 4288 px"
+    "downloadable": true
   },
   {
     "name": "Green Plant",
@@ -119,8 +219,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/green-plant.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/green-plant.png",
-    "downloadable": true,
-    "dimensions": "1080 x 1920 px"
+    "downloadable": true
   },
   {
     "name": "Ciriangle",
@@ -128,8 +227,7 @@
     "collections": "Material",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/joel-naren-ciriangle.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/joel-naren-ciriangle.png",
-    "downloadable": true,
-    "dimensions": "4000 x 6000 px"
+    "downloadable": true
   },
   {
     "name": "Hill",
@@ -137,8 +235,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/jon-tyson-hill.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/jon-tyson-hill.png",
-    "downloadable": true,
-    "dimensions": "3024 x 4032 px"
+    "downloadable": true
   },
   {
     "name": "Canyon",
@@ -146,8 +243,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/kevin-lanceplaine-canyon.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/kevin-lanceplaine-canyon.png",
-    "downloadable": true,
-    "dimensions": "4032 x 3024 px"
+    "downloadable": true
   },
   {
     "name": "Koenigsegg One:1",
@@ -155,8 +251,7 @@
     "collections": "Random",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/koenigsegg-one.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/koenigsegg-one.png",
-    "downloadable": true,
-    "dimensions": "1080 x 1920 px"
+    "downloadable": true
   },
   {
     "name": "So Natural",
@@ -164,8 +259,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/kris-atomic-flower3.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/kris-atomic-flower3.png",
-    "downloadable": true,
-    "dimensions": "2912 x 4368 px"
+    "downloadable": true
   },
   {
     "name": "Landscape",
@@ -173,8 +267,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/landscape.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/landscape.png",
-    "downloadable": true,
-    "dimensions": "1152 x 2048 px"
+    "downloadable": true
   },
   {
     "name": "Sunset Valley",
@@ -182,8 +275,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/look-at-the-sky.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/look-at-the-sky.png",
-    "downloadable": true,
-    "dimensions": "2160 x 4320 px"
+    "downloadable": true
   },
   {
     "name": "Small Tree",
@@ -191,8 +283,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/matthew-smith-small-tree.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/matthew-smith-small-tree.png",
-    "downloadable": true,
-    "dimensions": "5000 x 3333 px"
+    "downloadable": true
   },
   {
     "name": "Blue Flower",
@@ -200,8 +291,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nick-nice-flower4.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nick-nice-flower4.png",
-    "downloadable": true,
-    "dimensions": "2016 x 4032 px"
+    "downloadable": true
   },
   {
     "name": "Mid Forest",
@@ -209,8 +299,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/nora-gorlitz-mid-forest.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/nora-gorlitz-mid-forest.png",
-    "downloadable": true,
-    "dimensions": "3276 x 4096 px"
+    "downloadable": true
   },
   {
     "name": "Particle",
@@ -218,8 +307,7 @@
     "collections": "Random",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/particle.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/particle.png",
-    "downloadable": true,
-    "dimensions": "3420 x 6080 px"
+    "downloadable": true
   },
   {
     "name": "Particle 2",
@@ -227,8 +315,7 @@
     "collections": "Random",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/particle2.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/particle2.png",
-    "downloadable": true,
-    "dimensions": "1080 x 2240 px"
+    "downloadable": true
   },
   {
     "name": "Coconut Trees By The Sea",
@@ -236,8 +323,7 @@
     "collections": "Earth",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/raj-eiamworakul-coconut-by-sea.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/raj-eiamworakul-coconut-by-sea.png",
-    "downloadable": true,
-    "dimensions": "2547 x 3396 px"
+    "downloadable": true
   },
   {
     "name": "Seaside",
@@ -245,8 +331,7 @@
     "collections": "Earth",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/seaside.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/seaside.png",
-    "downloadable": true,
-    "dimensions": "1773 x 3546 px"
+    "downloadable": true
   },
   {
     "name": "Seaside 2",
@@ -254,8 +339,7 @@
     "collections": "Earth",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/seaside2.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/seaside2.png",
-    "downloadable": true,
-    "dimensions": "1996 x 3992 px"
+    "downloadable": true
   },
   {
     "name": "Seaside 3",
@@ -263,8 +347,7 @@
     "collections": "Earth",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/seaside3.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/seaside3.png",
-    "downloadable": true,
-    "dimensions": "1440 x 2960 px"
+    "downloadable": true
   },
   {
     "name": "Maldives Seaside",
@@ -272,8 +355,7 @@
     "collections": "Earth",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/shifaaz-shamoon-maldive-seaside.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/shifaaz-shamoon-maldive-seaside.png",
-    "downloadable": true,
-    "dimensions": "2626 x 4673 px"
+    "downloadable": true
   },
   {
     "name": "Side Sea",
@@ -281,8 +363,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/sidesea.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/sidesea.png",
-    "downloadable": true,
-    "dimensions": "2160 x 3840 px"
+    "downloadable": true
   },
   {
     "name": "Forest Road",
@@ -290,8 +371,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/steve-halama-forest-road.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/steve-halama-forest-road.png",
-    "downloadable": true,
-    "dimensions": "3252 x 4445 px"
+    "downloadable": true
   },
   {
     "name": "Beach",
@@ -299,8 +379,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-beach.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-beach.png",
-    "downloadable": true,
-    "dimensions": "2160 x 3840 px"
+    "downloadable": true
   },
   {
     "name": "Estuary",
@@ -308,8 +387,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-estuary.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-estuary.png",
-    "downloadable": true,
-    "dimensions": "2160 x 4320 px"
+    "downloadable": true
   },
   {
     "name": "Road Alone",
@@ -317,8 +395,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-road-alone.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-road-alone.png",
-    "downloadable": true,
-    "dimensions": "2160 x 4320 px"
+    "downloadable": true
   },
   {
     "name": "Sea",
@@ -326,8 +403,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-sea.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-sea.png",
-    "downloadable": true,
-    "dimensions": "2160 x 4320 px"
+    "downloadable": true
   },
   {
     "name": "Sea 2",
@@ -335,8 +411,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-sea2.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-sea2.png",
-    "downloadable": true,
-    "dimensions": "2160 x 4320 px"
+    "downloadable": true
   },
   {
     "name": "Sunset",
@@ -344,8 +419,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-sunset.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-sunset.png",
-    "downloadable": true,
-    "dimensions": "1600 x 2560 px"
+    "downloadable": true
   },
   {
     "name": "Waterfall",
@@ -353,8 +427,7 @@
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/vector-waterfall.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/vector-waterfall.png",
-    "downloadable": true,
-    "dimensions": "2160 x 4320 px"
+    "downloadable": true
   },
   {
     "name": "Flower 5",
@@ -362,8 +435,7 @@
     "collections": "Nature",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/wyatt-ryan-flower5.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/wyatt-ryan-flower5.png",
-    "downloadable": true,
-    "dimensions": "5184 x 3456 px"
+    "downloadable": true
   },
   {
     "name": "Material 2",
@@ -371,8 +443,7 @@
     "collections": "Material",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/material2.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/material2.png",
-    "downloadable": true,
-    "dimensions": "2800 x 2000 px"
+    "downloadable": true
   },
   {
     "name": "Hexs",
@@ -380,24 +451,21 @@
     "collections": "Material",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/hexs.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/hexs.png",
-    "downloadable": true,
-    "dimensions": "4320 x 8800 px"
+    "downloadable": true
   },
   {
     "name": "Resurrection Remix Oreo",
     "collections": "Earth,Custom ROM",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/rroreo.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/rroreo.png",
-    "downloadable": true,
-    "dimensions": "2160 x 2160 px"
+    "downloadable": true
   },
   {
     "name": "Resurrection Remix Nougat",
     "collections": "Earth, Custom ROM",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/rrnougat.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/rrnougat.png",
-    "downloadable": true,
-    "dimensions": "1440 x 1280 px"
+    "downloadable": true
   },
   {
     "name": "Lines - Blue",
@@ -405,8 +473,7 @@
     "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/androidpblue.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/androidpblue.png",
-    "downloadable": true,
-    "dimensions": "1080 x 2160 px"
+    "downloadable": true
   },
   {
     "name": "Lines - Blue Google",
@@ -414,8 +481,7 @@
     "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/androidpblueg.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/androidpblueg.png",
-    "downloadable": true,
-    "dimensions": "1080 x 2160 px"
+    "downloadable": true
   },
   {
     "name": "Lines - Dark",
@@ -423,8 +489,7 @@
     "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/androidpdark.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/androidpdark.png",
-    "downloadable": true,
-    "dimensions": "1080 x 2160 px"
+    "downloadable": true
   },
   {
     "name": "Lines - Amoled",
@@ -432,8 +497,7 @@
     "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/androidpamoled.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/androidpamoled.png",
-    "downloadable": true,
-    "dimensions": "1080 x 2160 px"
+    "downloadable": true
   },
   {
     "name": "Lines - Dark Google",
@@ -441,16 +505,14 @@
     "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/androidpdarkg.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/androidpdarkg.png",
-    "downloadable": true,
-    "dimensions": "1080 x 2160 px"
+    "downloadable": true
   },
   {
     "name": "Material 1",
     "collections": "Material",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/materialhd.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/materialhd.png",
-    "downloadable": true,
-    "dimensions": "2893 x 2572 px"
+    "downloadable": true
   },
   {
     "name": "Google Material Scope",
@@ -458,7 +520,6 @@
     "author": "Sarsa Murmu",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/gm.webp",
     "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/gm.png",
-    "downloadable": true,
-    "dimensions": "2160 x 2160 px"
+    "downloadable": true
   }
 ]
