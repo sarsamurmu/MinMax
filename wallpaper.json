@@ -1,5 +1,104 @@
 [
   {
+    "name": "Cold Burn",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/cold-burn.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/cold-burn.png",
+    "downloadable": true
+  },
+  {
+    "name": "Crazy Colors",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/crazy-colors.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/crazy-colors.png",
+    "downloadable": true
+  },
+  {
+    "name": "Estuary Top View",
+    "author": "Google Earth",
+    "collections": "Earth",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/estuary-top-view.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/estuary-top-view.png",
+    "downloadable": true
+  },
+  {
+    "name": "Seaside Earth View",
+    "author": "GWalls",
+    "collections": "Earth",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/gwalls-seaside-earthview.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/gwalls-seaside-earthview.png",
+    "downloadable": true
+  },
+  {
+    "name": "Seaside Earth View 2",
+    "author": "GWalls",
+    "collections": "Earth",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/gwalls-seaside-earthview-2.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/gwalls-seaside-earthview-2.png",
+    "downloadable": true
+  },
+  {
+    "name": "Refreshing Leaves",
+    "author": "Lawrence Kayku",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/lawrence-kayku-refreshing-leaves.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/lawrence-kayku-refreshing-leaves.png",
+    "downloadable": true
+  },
+  {
+    "name": "Light Leaf",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/light-leaf.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/light-leaf.png",
+    "downloadable": true
+  },
+  {
+    "name": "Leaf",
+    "author": "Markus Winkler",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/markus-winkler-leaf.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/markus-winkler-leaf.png",
+    "downloadable": true
+  },
+  {
+    "name": "Neon Leaves",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/neon-leaves.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/neon-leaves.png",
+    "downloadable": true
+  },
+  {
+    "name": "On The Road",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/on-the-road.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/on-the-road.png",
+    "downloadable": true
+  },
+  {
+    "name": "Crawling Vine",
+    "author": "Pika Alyani",
+    "collections": "Nature",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/pika-alyani-crawling-vine.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/pika-alyani-crawling-vine.png",
+    "downloadable": true
+  },
+  {
+    "name": "Night In Japan",
+    "author": "Valentin Beauvais",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/valentin-beauvais-night-in-japan.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/valentin-beauvais-night-in-japan.png",
+    "downloadable": true
+  },
+  {
+    "name": "Lamborghini Aventador Roadster",
+    "author": "Chris Nguyen",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/chris-nguyen-lamborghini-aventador.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/chris-nguyen-lamborghini-aventador.png",
+    "downloadable": true
+  },
+  {
     "name": "Android O",
     "collections": "Vector",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/android-o.webp",
