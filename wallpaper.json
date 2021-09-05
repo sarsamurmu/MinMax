@@ -1,5 +1,48 @@
 [
   {
+    "name": "Through the ruins",
+    "author": "Asteroid",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/asteroid-through-the-ruins.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/asteroid-through-the-ruins.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Color Swirl",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/color-swirl.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/color-swirl.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Color Wave",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/color-wave.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/color-wave.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Minimal Flowers",
+    "collections": "Vector",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/minimal-flowers.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/minimal-flowers.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Rain City",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/rain-city.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/rain-city.jpg",
+    "downloadable": true
+  },
+  {
+    "name": "Tie Dye",
+    "collections": "Random",
+    "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/tie-dye.webp",
+    "thumb": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/t/tie-dye.jpg",
+    "downloadable": true
+  },
+  {
     "name": "Cold Burn",
     "collections": "Random",
     "url": "https://raw.githubusercontent.com/sarsamurmu/minmax/Wallpapers/cold-burn.webp",
